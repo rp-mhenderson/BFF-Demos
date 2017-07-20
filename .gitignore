@@ -1,0 +1,12 @@
+*.ncrunchproject
+*.user
+*.dll
+*.pdb
+*.xml
+*.ncrunchsolution
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
